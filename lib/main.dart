@@ -58,10 +58,10 @@ class MainApp extends StatelessWidget {
         return GetMaterialApp(
           debugShowCheckedModeBanner: false,
           // Configure the theme with light and dark color schemes
-          theme: ThemeData(
-            colorScheme: light,
-            useMaterial3: true,
-          ),
+          // theme: ThemeData(
+          //   colorScheme: light,
+          //   useMaterial3: true,
+          // ),
           darkTheme: ThemeData(
             colorScheme: dark,
             useMaterial3: true,
