@@ -7,12 +7,34 @@ environment for managing and playing your favorite tunes.
 
 ## [View Video](https://youtu.be/_7CHcLhRh6E)
 
-### Home Screen
+### Dynamic Themes - Wallpaper Matching
 
-<img src="screenshots/Screenshot_1709738653.png" alt="Home Screen" width="300">
+<div style="display: flex;">
 
-<img src="screenshots/Screenshot_1709739227.png" alt="Home Screen" width="300">
+  <div style="border: 1px solid #ccc; padding: 1px; display: inline-block; margin-right: 10px;">
+    <p style="text-align: center; margin-top: 10px; margin-bottom: 10px;">Theme 1</p>
+    <img src="screenshots/Screenshot_1709738653.png" alt="Home Screen 1" width="300">
+  </div>
 
-### Search Screen
+  <div style="border: 1px solid #ccc; padding: 1px; display: inline-block;">
+    <p style="text-align: center; margin-top: 10px; margin-bottom: 10px;">Theme 2</p>
+    <img src="screenshots/Screenshot_1709739227.png" alt="Home Screen 2" width="300">
+  </div>
 
-<img src="screenshots/Screenshot_1709739245.png" alt="Search Screen" width="300">
+</div>
+
+### Search Screen - Easily Find Your Favorite Tracks
+
+<div style="border: 1px solid #ccc; padding: 1px; display: inline-block;">
+<p style="text-align: center; margin-top: 10px; margin-bottom: 10px;">Search Screen</p>
+  <img src="screenshots/Screenshot_1709739245.png" alt="Search Screen" width="300">
+</div>
+
+### Notification - Seamlessly Handle Playback
+
+<div style="border: 1px solid #ccc; padding: 1px; display: inline-block;">
+<p style="text-align: center; margin-top: 10px; margin-bottom: 10px;">Notification</p>
+  <img src="screenshots/Screenshot_1709790682.png" alt="Notification" width="300">
+</div>
+
+
